@@ -12,7 +12,7 @@
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.12.1",
     "array-shuffle": "^2.0.0",
-    "cloudinary": "^1.25.1",
+    "cloudinary": "^1.37.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.4.1",
     "dotenv": "^8.2.0",
